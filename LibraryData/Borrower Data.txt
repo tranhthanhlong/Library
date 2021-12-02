@@ -1,0 +1,12 @@
+1;long.tt9121@sinhvien.hoasen.edu.vn;123456;Tran Thanh Long;2001/01/27;Nam;0777634687;517/22 Nguyen Trai, Q.5
+2;hoanvu222@gmail.com;hoanvu;Nguyen Hoang Vu;2003/05/08;Nam;0906222888;123 Tung Thien Vuong, Q8
+3;maiyeuthuong@yahoo.com;yeuthuong.mai;Nguyen Thi Thuy Nga;1995/04/05;Nu;0931200098;8 Nguyen Van Trang, Q.1
+4;binh.nv2384@sinhvien.hoasen.edu.vn;binhbinh123;Nguyen van Binh;2002/02/01;Nam;0999852345;262 Cao Thang (Noi Dai), Q.10
+5;donquiote@gmail.com;donquiote999;Mai Anh Vu;1998/09/20;Nam;0993235847;38 Nguyen Kim, Q.10
+6;HaNoiToiYeu@yahoo.com.vn;iloveyou123;Tran Thi Mai Anh;1995/03/04;Nu;0903125577;23 Hai Ba Trung, Q.1
+7;lbhung@caukiem.com.vn;lbhung@1585*;Lam Bang Hung;1996/07/19;Nu;0905321851;1 3 Thang 2, Q.10
+8;son.c1234@sinhvien.fpt.edu.vn;highmountain;Cao Son;2001/01/16;Nam;0901237456;42 Tran Van On, Q.Tan Binh
+9;quan.lamle9999@gmail.com;Lq.lam9121;Lam Quan;1987/06/13;Nu;0901200988;99 Thuan Kieu, Q.5
+10;ddoftheend@gmail.com;1;Trang Thu;2000/02/20;Nu;0906222888;1 Nguyen Trai, Q5
+11;tuan.nm8638@sinhvien.hoasen.edu.vn;123;Nguyen Minh Tuan;2001/01/31;Nam;0907777333;1 Nguyen Cu Trinh, Q8
+

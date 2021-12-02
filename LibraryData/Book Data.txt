@@ -1,0 +1,17 @@
+TN0001;Tieng Nhat 1;NHK;NXB Tre;Giao duc;10;O
+TT0001;Doraemon Tap 1;Fujiko Fujio;NXB Kim Dong;Truyen tranh Nhat Ban;38;O
+LT0001;Lap Trinh Huong Doi Tuong 1;Nguyen Ba Trung;NXB Hoa Sen;Giao duc;19;O
+KT0001;Phat Luat Trong Xa Hoi;Tran Xuan Thu;NXB Phap Luat;Phap Luat Va Kinh Te;25;O
+LT0003;Co So Du Lieu 2;Nguyen Phuong Hoang;NXB Hoa Sen;Giao duc;5;O
+KT0002;Kinh Te Va Phap Luat;Nguyen Minh Tuan;NXB Kinh Te;Kinh Te Va Phap Luat;18;O
+TT0002;Doraemon Tap 2;Fujiko Fujio;NXB Kim Dong;Truyen tranh Nhat Ban;1;O
+TT0003;Doraemon Tap 3;Fujiko Fujio;NXB Kim Dong;Truyen tranh Nhat Ban;2;O
+TT0004;Doraemon Tap 4;Fujiko Fujio;NXB Kim Dong;Truyen tranh Nhat Ban;6;O
+TT0005;Doraemon Tap 5;Fujiko Fujio;NXB Kim Dong;Truyen tranh Nhat Ban;5;O
+LT0002;Lap Trinh Huong Doi Tuong 2;Nguyen Ba Trung;NXB Hoa Sen;Giao duc;2;O
+TN0002;Tieng Nhat 2;NHK;NXB Tre;Giao duc;7;O
+VH0001;Van Hoc Co Dien;Trung Minh Oa;NXB Van Hoc;Van hoc co dien;7;O
+CT0001;Chinh Tri The Gioi;Arthur Deen;NXB Ha Noi;Chinh tri;7;O
+VH0002;Van Hoc Duong Dai 1;Tran Thanh Tong;NXB Van Hoc;Van hoc duong dai;3;O
+MN0004;I, Sea, Tel;Natsuko Yahagi;NXB Tan Nhat;Van hoc Nhat Ban;7;O
+BT0001;Thoi Trang The Gioi;Edward F.A;NXB Thoi Trang;Thoi Trang;2;O
